@@ -1,5 +1,5 @@
 # Flutter Social App Concept 
-Flutter representation of a Social App Concept i found on Uplabs.
+Flutter representation of a chatting App Concept i found on Uplabs.
 
 Star the repo if you like what you see.
 
