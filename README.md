@@ -1,6 +1,5 @@
 # Flutter Social App Concept 
-Flutter representation of a chatting App Concept i found on Uplabs.
-
+Here is my little social media chatting app with great u.i i found on uplab 
 Star the repo if you like what you see.
 
 
