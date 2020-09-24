@@ -6,7 +6,7 @@ List names = [
   "Lenard Milton",
   "Bryant Marley",
   "Rosalva Sadberry",
-  "Guadalupe Ratledge",
+  "Guadalupe Ratle",
   "Brandy Gazda",
   "Kurt Toms",
   "Rosario Gathright",
